@@ -1,0 +1,10 @@
+z1 Group
+z2 Ungroup
+z3 Select
+z4 Cut
+z5 Copy
+z6 Paste
+z7 Undo
+z8 Export
+BG_COLOR 255 124 0
+DIM_UNUSED_KEYS 0

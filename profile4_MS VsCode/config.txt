@@ -1,0 +1,14 @@
+z1 Cli
+z2 Copy
+z3 Paste
+z4 Find
+z5 Find Re
+z6 Undo
+z7 Wrap
+z8 Sidebar
+z9 Cmd
+z10 Format
+z11 Save
+z12 Save A
+BG_COLOR 255 47 146
+DIM_UNUSED_KEYS 0

@@ -1,0 +1,2 @@
+STRING sudo raspi-config
+ENTER

@@ -1,0 +1,6 @@
+z1 apt
+z2 reboot
+z3 pi conf
+BG_COLOR 254 14 9
+KEYDOWN_COLOR 0 82 255
+DIM_UNUSED_KEYS 0

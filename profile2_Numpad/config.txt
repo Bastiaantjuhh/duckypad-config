@@ -1,0 +1,16 @@
+z1 7
+z2 8
+z3 9
+z4 4
+z5 5
+z6 6
+z7 1
+z8 2
+z9 3
+z10 00
+z11 0
+z13 TAB
+z14 ENTER
+z15 BACK
+BG_COLOR 84 22 180
+DIM_UNUSED_KEYS 0
