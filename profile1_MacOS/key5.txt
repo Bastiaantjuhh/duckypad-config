@@ -1,1 +1,4 @@
-COMMAND SPACE
+REM Used for BitWarden Chrome Extension
+COMMAND SHIFT l
+DELAY 250
+ENTER
