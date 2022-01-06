@@ -1,0 +1,6 @@
+z1 Hahaha
+z2 :-)
+z3 ;-)
+z4 <3
+BG_COLOR 141 249 0
+KEYDOWN_COLOR 255 254 254

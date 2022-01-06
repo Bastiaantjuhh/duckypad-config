@@ -6,6 +6,7 @@ My config files for the DuckyPad
   - [Table of content](#table-of-content)
   - [Profiles](#profiles)
   - [Changelog](#changelog)
+    - [v2](#v2)
     - [v1](#v1)
   - [Repository summary](#repository-summary)
   - [License](#license)
@@ -14,16 +15,23 @@ My config files for the DuckyPad
 
 Nr | Name | Description
 --- | --- | ---
-1 | MacOS | Used for MacOs based operations
-2 | Numpad | Since I have no numpad on my keyboard a Numpad block
-3 | Chat | Fast reply to chats with default anwers and emoji's
-4 | MS VsCode | My favorite IDE shortcuts
-5 | MS Teams | Using for online meetings
-6 | Adobe AI | Adobe Illustrator most used shortcuts
-7 | Adobe PS | Adobe Photoshop most used shortcuts
-8 | Excel | Some functions and keys I use a lot in Excel
+1 | Index | Home with shortcuts to all of my profiles
+2 | MacOS | Used for MacOs based operations
+3 | Numpad | Since I have no numpad on my keyboard a Numpad block
+4 | Chat | Fast reply to chats with default anwers and emoji's
+5 | MS VsCode | My favorite IDE shortcuts
+6 | MS Teams | Using for online meetings
+7 | blank | blank
+8 | Adobe AI | Adobe Illustrator most used shortcuts
+9 | Adobe PR | Adobe Premiere Pro most used shortcuts
+10 | Adobe PS | Adobe Photoshop most used shortcuts
+11 | iOS | Planing to use later...
 
 ## Changelog
+### v2
+- Added: Index, iOS, Premiere Pro
+- Removed: Excel
+  
 ### v1
 - Added information in `README.md`
 

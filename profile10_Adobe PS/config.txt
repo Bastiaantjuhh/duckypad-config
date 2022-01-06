@@ -1,0 +1,11 @@
+z1 Group
+z2 Ungroup
+z3 Select
+z4 Cut
+z5 Copy
+z6 Paste
+z7 Undo
+z8 Export
+z9 Crop
+BG_COLOR 0 79 255
+KEYDOWN_COLOR 255 254 254

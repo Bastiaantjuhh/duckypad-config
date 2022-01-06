@@ -1,0 +1,12 @@
+z1 Mute
+z2 Camera
+z3 Hand
+z4 Blur
+z5 Chat
+z6 Teams
+z7 Calls
+z8 Files
+z13 Ac Vid
+z14 Ac Audi
+BG_COLOR 84 22 180
+KEYDOWN_COLOR 255 254 254

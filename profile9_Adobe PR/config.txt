@@ -1,0 +1,14 @@
+z1 Group
+z2 Ungroup
+z3 Select
+z4 Cut
+z5 Copy
+z6 Paste
+z7 Undo
+z8 Redo
+z9 S Tool
+z10 Save
+z11 Export
+z12 Import
+BG_COLOR 51 13 62
+KEYDOWN_COLOR 255 254 254

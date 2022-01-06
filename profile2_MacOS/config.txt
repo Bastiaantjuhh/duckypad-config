@@ -1,0 +1,17 @@
+z1 Lock
+z2 Quit
+z3 Prt Scr
+z4 Cli
+z5 Fill pw
+z6 Emoji
+z7 <<
+z8 ||
+z9 >>
+z10 Vol +
+z11 Mute
+z12 Vol -
+z13 Cut
+z14 Copy
+z15 Paste
+BG_COLOR 255 67 255
+KEYDOWN_COLOR 0 252 255
